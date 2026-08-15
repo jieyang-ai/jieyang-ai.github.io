@@ -32,7 +32,7 @@ position { font-size: 1em; }
 
 affiliation { font-size: 0.95em; }
 
-email { font-size: 0.92em; }
+email { font-size: 1em; }
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
@@ -69,7 +69,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { border-radius: 0.5em; width: 54%; padding: 20px; }
+.image.avatar img { border-radius: 0.5em; width: 59.4%; padding: 20px; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
 

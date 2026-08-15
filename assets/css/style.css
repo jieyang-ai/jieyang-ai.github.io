@@ -26,7 +26,13 @@
 
 .github span { background-color: #000; }
 
-email { font-size: 14px; font-family: "Ubuntu Mono"; }
+position, affiliation, email { display: inline-block; font-family: inherit; font-weight: 400; line-height: 1.35; }
+
+position { font-size: 1em; }
+
+affiliation { font-size: 0.95em; }
+
+email { font-size: 0.92em; }
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
